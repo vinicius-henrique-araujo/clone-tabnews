@@ -1,3 +1,3 @@
 # clone-tabnews
 
-recriando o tabnews do zero
+Criando uma pagina para descutir assuntos da contrução civil no Brasil, com Foco em BIM 
